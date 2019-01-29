@@ -17,9 +17,9 @@ https://github.com/CypherOS/platform_manifest
 https://github.com/KirinMixTeam  
 https://github.com/berkeley-pie  
 https://github.com/LineageOS/android_device_huawei_kirin970-common  
-ttps://github.com/CandyDevices/device_huawei_kirin970-common | CandyDevices/device_huawei_kirin970-common  
-https://github.com/AOSiP-Devices/kernel_huawei_kirin970 | AOSiP-Devices/kernel_huawei_kirin970  
-https://github.com/GtrCraft/device_huawei_kirin970-common | GtrCraft/device_huawei_kirin970-common  
+https://github.com/CandyDevices/device_huawei_kirin970-common  
+https://github.com/AOSiP-Devices/kernel_huawei_kirin970  
+https://github.com/GtrCraft/device_huawei_kirin970-common  
 https://github.com/andrecondor/device_huawei_kirin970-common | andrecondor/device_huawei_kirin970-common  
 https://github.com/CypherOS/device_huawei_kirin970-common | CypherOS/device_huawei_kirin970-common  
 https://github.com/CypherOS/kernel_huawei_kirin970 | Server Error · GitHub  
@@ -58,7 +58,7 @@ https://github.com/AospExtended-Devices/device_huawei_berkeley | AospExtended-De
 https://github.com/LineageOS/android_device_huawei_berkeley | LineageOS/android_device_huawei_berkeley  
 https://github.com/GZOSP-Devices/device_huawei_berkeley | GZOSP-Devices/device_huawei_berkeley  
 https://github.com/berkeley-pie/android_device_huawei_berkeley | berkeley-pie/android_device_huawei_berkeley  
-https://github.com/BlissRoms-Devices/android_device_huawei_berkeley | BlissRoms-Devices/android_device_huawei_berkeley: based off of flex1911's device tree  
+https://github.com/BlissRoms-Devices/android_device_huawei_berkeley
 https://github.com/PixelExperience-Devices/device_huawei_berkeley | PixelExperience-Devices/device_huawei_berkeley  
 https://github.com/PotatoDevices/device_huawei_berkeley | PotatoDevices/device_huawei_berkeley  
 https://github.com/moepda/android_kernel_huawei_berkeley | moepda/android_kernel_huawei_berkeley  
